@@ -1,0 +1,11 @@
+{
+  "name": "forkio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass --no-source-map --watch ./main.scss:./main.css"
+  },
+  "author": "MOI",
+  "license": "ISC"
+}
